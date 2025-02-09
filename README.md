@@ -30,6 +30,11 @@
     ```bash
     npm install
     ```
+3. **Configura las variables de entorno**
+
+    ```bash
+    cp .env.template .env
+    ```
 3. **Inicia la aplicación**
     
     ```bash
