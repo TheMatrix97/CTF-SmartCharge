@@ -1,0 +1,15 @@
+{
+  "name": "ctf-smartcharger",
+  "version": "1.0.0",
+  "description": "**SmartCharge** es una aplicación diseñada para ayudar a los conductores de vehículos eléctricos a encontrar cargadores cercanos y activar la recarga de forma remota. Con una interfaz intuitiva y funcionalidades avanzadas, SmartCharge facilita la búsqueda de puntos de carga y simplifica la experiencia de usuario.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
